@@ -1,3 +1,3 @@
 # Motif Finding Project-
 
- Bioinformatics Rcode
+ Bioinformatics Rcode- DNA Motif finding project
